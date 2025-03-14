@@ -58,5 +58,3 @@ This project demonstrates a real-time chat application built using Spring Boot a
 5.  **Open the client in your web browser:**
 
     * Navigate to `http://localhost:8080` (or the port you configured).
-
-## Project Structure
