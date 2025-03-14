@@ -35,7 +35,7 @@ This project demonstrates a real-time chat application built using Spring Boot a
     cd [project directory]
     ```
 
-3.  **Build the project using Maven or Gradle:**
+3.  **Build the project using Maven:**
 
     * **Maven:**
 
